@@ -17,9 +17,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="=left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,firebase,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,electron,nextjs,tailwind,firebase,postgres,openai,vercel,shadcn,figma" />
   </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikm7&show_icons=true&locale=en" alt="kartikm7" /></p>
