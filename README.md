@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kartikeya-mishra.vercel.app/](https://kartikeya-mishra.vercel.app/)
 
-- 💬 Ask me about **React, Node, Javascript, Python and LLM's**
+- 💬 Ask me about **React, Node, Javascript, Ruby and LLM's**
 
 - 📫 How to reach me **https://twitter.com/codewithkt**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="=left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,electron,nextjs,tailwind,express,flask,fastapi,postgres,firebase,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,ruby,py,react,electron,nextjs,tailwind,rails,express,flask,fastapi,postgres,firebase,vercel,figma" />
   </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikm7&show_icons=true&locale=en" alt="kartikm7" /></p>
